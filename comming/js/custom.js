@@ -167,11 +167,11 @@ $(document).ready(function() {
 	var config = {
 	countdown: {
 		year: 2020,
-		month: 12,
-		day: 24,
-		hour: 10,
-		minute: 55,
-		second: 12
+		month: 01,
+		day: 01,
+		hour: 00,
+		minute: 00,
+		second: 00
 	}};
 	
 	var date = new Date(config.countdown.year,
