@@ -167,8 +167,8 @@ $(document).ready(function() {
 	var config = {
 	countdown: {
 		year: 2020,
-		month: 01,
-		day: 01,
+		month: 1,
+		day: 1,
 		hour: 00,
 		minute: 00,
 		second: 00
